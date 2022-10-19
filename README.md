@@ -18,6 +18,7 @@ Built from this [Voron Trident R1 commit](https://github.com/VoronDesign/Voron-T
   - [Sherpa mini from annex](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
   - [Mini Sherpa Angled Front Brace from Mandryd](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace)       
 - [KlickyNG](https://github.com/ViThreeDimension/Klicky-Probe/tree/timelocked-mods/Trident)
+- Sexbolt for Trident with kinematic bed (I will probably need to have one with more Z due to the kinematic adding some height to the bed plate)
 - Can Bus SHT-36
 - Panel locker [https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker)
 - Doors [https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges)
