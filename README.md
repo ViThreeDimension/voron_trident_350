@@ -26,6 +26,15 @@ Built from this [Voron Trident R1 commit](https://github.com/VoronDesign/Voron-T
 - Trident kinematic_bed [by whoppingpochard](https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed)
     
 
+## Electronics
+- 24v alimentation & 48v for A-B Motors
+- SHT36 v1 for Toolhead
+- Octopus Pro 446 main board 
+  - [Official Documentation](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro/) - [(cached)](documentation_subpages/BTT_Octopus_pro_EN.pdf)
+  - [Klipper Installation (VoronDocs)](https://docs.vorondesign.com/build/software/octopus_klipper.html)
+  - [My doc](documentation_subpages/BTT_Octopus_pro_vince.md)
+- 110V bed heater
+
 # Wishlist to sort
 - Bed wago mod
 - klicky AB holder
