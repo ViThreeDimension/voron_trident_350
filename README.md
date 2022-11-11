@@ -24,6 +24,8 @@ Built from this [Voron Trident R1 commit](https://github.com/VoronDesign/Voron-T
 - Doors [https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges)
 - Gantry Backers [by whoppingpochard](https://github.com/ViThreeDimension/VoronUsers/tree/timelocked-mods/Trident/printer_mods/whoppingpochard/extrusion_backers)
 - Trident kinematic_bed [by whoppingpochard](https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed)
+- Nevermore Duo V2 - 1.8 mod https://github.com/nevermore3d/Nevermore_Micro
+  - Nevermore Spacer for Trident: https://github.com/Outrider305/Nevermore_Spacer_Mount
     
 
 ## Electronics
