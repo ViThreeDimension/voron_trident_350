@@ -36,3 +36,6 @@ Once the pi has rebooted you can run the ip -s link show can0 command to check y
 You should see a line like the below in the results. The key thing to note is that the network is UP for now.
 
 ![iplink](utoc-1-iplink-from-mazor.png)
+
+- If not working test this 
+https://mellow.klipper.cn/#/advanced/can_rpi
