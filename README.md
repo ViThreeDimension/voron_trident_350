@@ -27,6 +27,7 @@ Built from this [Voron Trident R1 commit](https://github.com/VoronDesign/Voron-T
 - Trident kinematic_bed [by whoppingpochard](https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed)
 - Nevermore Duo V2 - 1.8 mod https://github.com/nevermore3d/Nevermore_Micro
   - Nevermore Spacer for Trident: https://github.com/Outrider305/Nevermore_Spacer_Mount
+- https://github.com/LoganFraser/VoronMods/blob/main/DecontaminatorTrident/
     
 
 ## Electronics
