@@ -26,7 +26,8 @@ Built from this [Voron Trident R1 commit](https://github.com/VoronDesign/Voron-T
 - Trident kinematic_bed [by whoppingpochard](https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed)
 - [Nevermore](https://github.com/nevermore3d/Nevermore_Micro) and Nevermore Extension [by Outrider305](https://github.com/Outrider305/Nevermore_Spacer_Mount) - ([cache](https://github.com/ViThreeDimension/Nevermore_Spacer_Mount))
 - [Decontaminator Bucket and brush](https://github.com/LoganFraser/VoronMods/blob/main/DecontaminatorTrident/)
-- 
+  - [Modified macros from V2.1631](https://github.com/ViThreeDimension/voron2.4/blob/main/klipper/nozzle_scrub.cfg)
+  - [Original Macros](https://github.com/VoronDesign/VoronUsers/tree/6276301a56bc56613037522765a65a276ac625d4/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber/Macros)
 ## Electronics
 - 24v alimentation & 48v for A-B Motors
 - SHT36 v1 for Toolhead - [Documentation](https://mellow.klipper.cn/#/board/fly_sht36_42/)
