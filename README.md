@@ -44,3 +44,14 @@ Built from this [Voron Trident R1 commit](https://github.com/VoronDesign/Voron-T
 
 # Wishlist to sort
 - [gcode buttons](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/meteyou/gcode_buttons)
+
+# Update Klipper
+- Klipper
+  - Kiauh -> https://github.com/dw-0/kiauh
+- Octopus Pro
+- UTOC
+- SHT36
+  - Canbus Katapult -> https://canbus.esoterical.online/
+- Update Mainsail
+- Save Configs
+- Install klippain
